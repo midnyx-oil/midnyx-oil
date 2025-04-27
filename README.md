@@ -1,14 +1,19 @@
-# midnyx-oil
+<h1 align="center">midnyx-oil</h1>
 
+<p align="center">
 🌒
+</p>
 
-> *Not attained by sudden flight...*  
-> *The unseen hours make all the difference.*
+<p align="center">
+<em>Not attained by sudden flight...<br>
+The unseen hours make all the difference.</em>
+</p>
 
 ---
 
-**Crafting quietly. Building what endures.**
-
+<p align="center">
+<strong>Crafting quietly. Building what endures.</strong>
+</p>
 
 <!--
 **midnyx-oil/midnyx-oil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
